@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Room
+comment1.params=d\ x\ y\ w\ h
+comment1.target=Room(Door,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ Room\ Objects\r\n\ \r\n\ @param\ \ \ d\ \ \ this\ room's\ door\r\n\ @param\ \ \ x\ \ \ room's\ x\ coordinate\r\n\ @param\ \ \ y\ \ \ room's\ y\ coordinate\r\n\ @param\ \ \ w\ \ \ room's\ width\r\n\ @param\ \ \ h\ \ \ room's\ height\r\n
+comment2.params=g2
+comment2.target=void\ draw(java.awt.Graphics2D)
+numComments=3

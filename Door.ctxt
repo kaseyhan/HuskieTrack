@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Door
+comment1.params=xCoord\ yCoord
+comment1.target=Door(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ Door\ Objects\r\n\ \r\n\ @param\ \ \ xCoord\ \ door's\ x\ coordinate\r\n\ @param\ \ \ yCoord\ \ door's\ y\ coordinate\r\n
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=
+comment3.target=int\ getY()
+comment4.params=
+comment4.target=java.awt.Color\ getColor()
+comment5.params=
+comment5.target=boolean\ getIsBroken()
+comment6.params=
+comment6.target=void\ breaks()
+numComments=7

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SystemComponent
+comment1.params=
+comment1.target=SystemComponent()
+comment2.params=
+comment2.target=java.lang.String\ doorBreak()
+comment2.text=\r\n\ called\ when\ the\ door's\ sensor\ breaks.\ calls\ Door.break()\ and\ returns\ the\ current\ time.\r\n\ @return\ \ timestamp\ \ \ the\ time\ at\ the\ method\ call\r\n
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+numComments=4
