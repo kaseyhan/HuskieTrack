@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ShooterMap</string>
+    <string name="main_button">Lockdown Start</string>
+    <string name="classNum">Classroom Number</string>
+    <string name="active">Active</string>
+    <string name="lastLoc">Last Location</string>
+    <string name="Distance">Distance</string>
+    <string name="time">Time</string>
+
+</resources>
